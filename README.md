@@ -1,2 +1,1 @@
-# Universal-Prototype-Enhancing
-Universal-Prototype Enhancing for Few-Shot Object Detection (ICCV 2021)
+# ICCV2021 Universal-Prototype Enhancing for Few-Shot Object Detection
